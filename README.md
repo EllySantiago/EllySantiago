@@ -1,4 +1,4 @@
-# EllySantiago
+# como dizem os mais sábios:
 
 <div align="center">
   <img src="./assets/banner.png" width="100%" alt="banner"/>
@@ -6,7 +6,7 @@
 
 <br>
 
-# 👋 Olá, eu sou Drielly Santiago
+#  Olá, eu sou Drielly Santiago S2
 
 Analista de Sistemas | Estudante de ADS com base em logística e gestão de processos
 
