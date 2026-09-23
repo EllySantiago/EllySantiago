@@ -1,4 +1,4 @@
-# Bem vindos caros visitantes!
+# como dizem os mais sábios:
 
 <div align="center">
   <img src="./assets/brasao.png" width="100%" alt="brasão - je crois en moi"/>
