@@ -1,4 +1,4 @@
-# como dizem os mais sábios:
+# Bem vindos Senhoras e Senhores, Damas e Cavalheiros!
 
 <div align="center">
   <img src="./assets/brasao.png" width="100%" alt="brasão - je crois en moi"/>
