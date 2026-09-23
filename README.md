@@ -1,7 +1,7 @@
 # Bem vindos caros visitantes!
 
 <div align="center">
-  <img src="./assets/brasao.png" width="260" alt="brasão - je crois en moi"/>
+  <img src="./assets/brasao.png" width="100%" alt="brasão - je crois en moi"/>
 </div>
 
 <br>
