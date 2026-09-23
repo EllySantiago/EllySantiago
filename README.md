@@ -1,7 +1,7 @@
 # Bem vindos Senhoras e Senhores, Damas e Cavalheiros!
 
 <div align="center">
-  <img src="./assets/brasao.png" width="100%" alt="brasão - je crois en moi"/>
+  <img src="./assets/brasao.png" style="max-height: 200px; width: auto;" alt="brasão - je crois en moi"/>
 </div>
 
 <br>
