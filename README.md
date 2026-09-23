@@ -1,7 +1,7 @@
-# como dizem os mais sábios:
+# Bem vindos caros visitantes!
 
 <div align="center">
-  <img src="./assets/banner.png" width="100%" alt="banner"/>
+  <img src="./assets/brasao.png" width="260" alt="brasão - je crois en moi"/>
 </div>
 
 <br>
@@ -19,16 +19,19 @@ driellysantos@dev
 ```
 
 ```
-projeto-integra-plus/     -> Colaboração no desenvolvimento e na tomada de       [2026]
-                                          decisões; primeiro projeto de TI em equipe.
+sos-cidade-5p/             -> Projeto em equipe: plataforma para reportar e      [2026]
+                                          acompanhar problemas urbanos da cidade.
+
+marketplace-economia-criativa/ -> Projeto em equipe: marketplace para conectar    [2026]
+                                          empreendedores da economia criativa a
+                                          consumidores.
 
 facepe/                   -> Dois projetos (bolsista e voluntária) em            [2023-2024]
                                           tecnologias logísticas, aplicando metodologias
                                           ágeis, Kanban, 5W2H e Ishikawa.
-
-projeto-java-cesar/       -> Projeto em Java na Cesar School, praticando          [2026]
-                                          orientação a objetos e organização de prazos.
 ```
+
+🔗 [SOS Cidade 5P](https://github.com/kaykyDias04/SOS_Cidade_5P) &nbsp;•&nbsp; 🔗 [Marketplace da Economia Criativa](https://github.com/thainapontes/Marketplace-da-economia-criativa)
 
 
 ---
@@ -43,6 +46,8 @@ projeto-java-cesar/       -> Projeto em Java na Cesar School, praticando        
 
 <p>
   <img src="https://img.shields.io/badge/-Java-8A2BE2?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-4B0082?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-6A0DAD?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 **Metodologias & Gestão**
@@ -72,7 +77,7 @@ driellysantos@dev
 
 ```
 -----------
-Stack        : Java . Python . CSS
+Stack        : Java . TypeScript . Python . CSS
 Metodologias : Kanban . Scrum . 5W2H . Ishikawa
 Ferramentas  : Docker
 
@@ -86,7 +91,7 @@ Hobby        : Insistir no impossivel ate provar que é possivel
 ## ⚔️ Habilidades
 
 <div align="center">
-  <img src="./assets/habilidades.jpg" width="220" align="right" alt="habilidades"/>
+  <img src="./assets/sakura.jpg" width="220" align="right" alt="sakura"/>
 </div>
 <ul>
 <li>Gestão de fluxos e processos</li>
