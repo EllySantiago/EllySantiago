@@ -63,6 +63,7 @@ facepe/                   -> Dois projetos (bolsista e voluntária) em          
 
 <p>
   <img src="https://img.shields.io/badge/-Docker-9400D3?style=for-the-badge&logo=docker&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Figma-9400D3?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 <br clear="right"/>
