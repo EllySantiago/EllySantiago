@@ -3,12 +3,12 @@
 
   <h1>Olá, eu sou Drielly Santiago</h1>
 
-  <p><strong>Estudante de Análise e Desenvolvimento de Sistemas</strong><br/>
-  com base em logística e gestão de processos</p>
+  <p><strong>Analista de Sistemas em formação</strong><br/>
+  Estudante de ADS com base em logística e gestão de processos</p>
 
   <p>
-    <a href="mailto:Driellysantos578@gmail.com">E-mail</a> &nbsp;•&nbsp;
-    <a href="https://www.linkedin.com/in/SEU-USUARIO">LinkedIn</a>
+    <a href="mailto:driellysantos578@gmail.com">E-mail</a> &nbsp;•&nbsp;
+    <a href="https://www.linkedin.com/in/driellysantos/">LinkedIn</a>
   </p>
 </div>
 
@@ -16,7 +16,9 @@
 
 ## 📌 Sobre mim
 
-Curso ADS e trago na bagagem uma formação prática em logística e processos, o que me faz olhar para software como um fluxo: entender o problema, organizar o trabalho e só então escrever código. Estou em busca de **estágio ou posição júnior** em desenvolvimento.
+Estudo Análise e Desenvolvimento de Sistemas na Cesar School e trago uma base sólida em logística e gestão de processos. Meu foco é transformar necessidades de negócio em soluções tecnológicas por meio de **modelagem e diagramação**, e organizar o trabalho com metodologias ágeis.
+
+Estou em busca de **estágio ou posição júnior** em desenvolvimento e análise de sistemas.
 
 ---
 
@@ -33,19 +35,20 @@ Marketplace que conecta empreendedores da economia criativa de Pernambuco a cons
 🔗 [Repositório](https://github.com/thainapontes/Marketplace-da-economia-criativa)
 
 **FACEPE** · 2023–2024 · bolsista e voluntária
-Dois projetos em tecnologias logísticas, aplicando metodologias ágeis, Kanban, 5W2H e Ishikawa.
+Dois projetos em tecnologias logísticas. Levantei informações, entendi as dores da empresa atendida e propus melhorias usando Kanban, 5W2H e Ishikawa.
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias e métodos
 
 | | |
 | :--- | :--- |
-| **Linguagens** | Java, TypeScript, Python, CSS |
-| **Metodologias** | Kanban, Scrum, 5W2H, Ishikawa |
-| **Ferramentas** | Docker, Figma |
+| **Desenvolvimento** | Java e Orientação a Objetos, TypeScript, Python (análise de dados) |
+| **Modelagem e design** | Modelagem e diagramação de regras de negócio, Figma |
+| **Ferramentas** | Docker |
+| **Metodologias** | Scrum, Kanban, 5W2H, Ishikawa, mapeamento de fluxos e processos |
 
 ---
 
@@ -66,9 +69,11 @@ Dois projetos em tecnologias logísticas, aplicando metodologias ágeis, Kanban,
 
 ---
 
-## 🎓 Formação
+## 🎓 Formação e idiomas
 
-**Tecnólogo em Análise e Desenvolvimento de Sistemas**
+- **Cesar School** · Tecnólogo em Análise e Desenvolvimento de Sistemas · 2025–2027
+- **ETEPAM** · Ensino médio técnico em Logística · 2020–2022
+- **Idiomas:** inglês intermediário (B1), francês e espanhol básicos
 
 ---
 
