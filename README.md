@@ -24,40 +24,75 @@ Estou em busca de **estágio ou posição júnior** em desenvolvimento e anális
 
 ## 🚀 Projetos em destaque
 
-<img src="./assets/roses.jpg" width="170" align="right" alt="rosas"/>
+<table>
+<tr>
+<td width="300" valign="middle" align="center">
+  <img src="./assets/roses.jpg" width="280" alt="rosas"/>
+</td>
+<td valign="middle">
 
 **SOS Cidade 5P** · 2026 · projeto em equipe
 Plataforma para reportar e acompanhar problemas urbanos da cidade.
 - **Minha atuação:** revisão, implementação e correção de segurança (autenticação e senhas, chave JWT, criação de contas de gestor, anonimização de dados), além da análise de LGPD e da documentação de requisitos de segurança.
+
 🔗 [Repositório](https://github.com/kaykyDias04/SOS_Cidade_5P)
 
 **Origem — Marketplace da Economia Criativa** · 2026 · projeto em equipe
 Marketplace que conecta empreendedores da economia criativa de Pernambuco a consumidores.
 - **Minha atuação:** backlog priorizado (MoSCoW e histórias de usuário), diagrama de caso de uso e DER, requisitos de interface e início do frontend em Next.js.
 - Desenvolvido com apoio de ferramentas de IA, com revisão manual dos resultados.
+
 🔗 [Repositório](https://github.com/thainapontes/Marketplace-da-economia-criativa)
 
 **FACEPE** · 2023–2024 · bolsista e voluntária
 Dois projetos em tecnologias logísticas. Levantei informações, entendi as dores da empresa atendida e propus melhorias usando Kanban, 5W2H e Ishikawa.
 
-<br clear="right"/>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tecnologias e métodos
 
-| | |
-| :--- | :--- |
-| **Desenvolvimento** | Java e Orientação a Objetos, TypeScript, Python (análise de dados) |
-| **Modelagem e design** | Modelagem e diagramação de regras de negócio, Figma |
-| **Ferramentas** | Docker |
-| **Metodologias** | Scrum, Kanban, 5W2H, Ishikawa, mapeamento de fluxos e processos |
+<table>
+<tr>
+<td valign="middle">
+
+```
+driellysantos@dev:~$ stack --list
+```
+
+```
+-----------
+Linguagens   : Java . TypeScript . Python
+Front-end    : HTML5 . CSS
+Modelagem    : Diagramação . Figma
+Metodologias : Kanban . Scrum . 5W2H . Ishikawa
+Ferramentas  : Docker
+
+Hobby        : Insistir no impossível até provar que é possível
+
+"No pain, no gain"
+```
+
+</td>
+<td width="300" valign="middle" align="center">
+  <img src="./assets/sakura.jpg" width="280" alt="sakura"/>
+</td>
+</tr>
+</table>
 
 ---
 
 ## ⚔️ Habilidades
 
-<img src="./assets/sakura.jpg" width="170" align="right" alt="sakura"/>
+<table>
+<tr>
+<td width="300" valign="middle" align="center">
+  <img src="./assets/habilidades.jpg" width="280" alt="habilidades"/>
+</td>
+<td valign="middle">
 
 - Gestão de fluxos e processos
 - Análise de dados
@@ -68,7 +103,9 @@ Dois projetos em tecnologias logísticas. Levantei informações, entendi as dor
 - Inteligência emocional
 - Proatividade e adaptabilidade
 
-<br clear="right"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -83,6 +120,13 @@ Dois projetos em tecnologias logísticas. Levantei informações, entendi as dor
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EllySantiago&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub"/>
 </p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EllySantiago/EllySantiago/output/github-snake-dark.svg"/>
+    <img alt="cobrinha comendo meus commits" src="https://raw.githubusercontent.com/EllySantiago/EllySantiago/output/github-snake.svg"/>
+  </picture>
+</div>
 
 <div align="center">
   <sub>Cada dia é uma nova oportunidade de viver como se fosse a primeira vez</sub>
