@@ -1,7 +1,7 @@
-# Bem vindos Senhoras e Senhores, Damas e Cavalheiros!
+# Bem-vindos Senhoras e Senhores, Damas e Cavalheiros!
 
- <div align="center">
-  <!-- Banner principal utilizando o asset do seu repositório -->
+<div align="center">
+  <!-- Banner principal utilizando o seu arquivo local -->
   <img src="assets/banner.png" alt="Banner Elly Santiago" width="100%">
 
   <h1>Olá, eu sou a Elly Santiago! :D</h1> 
@@ -10,7 +10,7 @@
   <p>Transformando lógica em soluções eficientes e construindo aplicações modernas.</p>
 
   <!-- Badges de Redes Sociais / Contato rápido -->
-  <a href="www.linkedin.com/in/driellysantos" target="_blank">
+  <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn">
   </a>
   <a href="mailto:Driellysantos578@gmail.com">
@@ -56,6 +56,7 @@ Aqui estão alguns dos projetos mais relevantes do meu portfólio de ADS:
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
+  <!-- Geradores automáticos baseados no seu usuário real -->
   <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub" />
   <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas" />
 </div>
@@ -67,6 +68,4 @@ Aqui estão alguns dos projetos mais relevantes do meu portfólio de ADS:
 Estou sempre aberta a discutir novos projetos, oportunidades de código ou apenas bater um papo sobre a área de tecnologia!
 
 - **LinkedIn:** [Conecte-se comigo no LinkedIn](https://linkedin.com)
-- **E-mail:** <layout>followupButton(query="""Draft an email to seu.email@provedor.com""", label="""seu.email@provedor.com""", variant=FOLLOWUP_BUTTON_VARIANT_EMAIL_DROPDOWN)</layout>
-
-
+- **E-mail:** <layout>followupButton(query="""Draft an email to Driellysantos578@gmail.com""", label="""Driellysantos578@gmail.com""", variant=FOLLOWUP_BUTTON_VARIANT_EMAIL_DROPDOWN)</layout>
