@@ -9,7 +9,7 @@
   
   <p>Transformando lógica em soluções eficientes e construindo aplicações modernas.</p>
 
-  <!-- Badges corrigidas usando HTML simples para evitar bloqueio de proxy do GitHub -->
+  <!-- Badges de Redes Sociais / Contato rápido -->
   <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn">
   </a>
@@ -37,26 +37,38 @@
 
 ---
 
-## 🚀 Projetos em Destaque <img src="assets/roses.jpg" alt="Rosas" width="45" align="center">
+## 🚀 Projetos em Destaque
 
-Aqui estão alguns dos projetos mais relevantes do meu portfólio de ADS:
+<img src="assets/roses.jpg" alt="Rosas de Decoração" width="130" align="right" style="margin-left: 15px; border-radius: 4px;">
 
-### 🌟 Nome do Seu Projeto Principal
-*Uma breve descrição de uma linha sobre o que este projeto faz e o problema que ele resolve.*
-- **Tecnologias utilizadas:** HTML, CSS, JavaScript
-- 🔗 [Acessar Repositório do Projeto](https://github.com)
+Aqui estão os principais projetos arquitetados e desenvolvidos durante a minha trajetória em ADS:
 
-### 📦 Nome do Segundo Projeto
-*Uma breve descrição de uma linha sobre a funcionalidade desta aplicação.*
-- **Tecnologias utilizadas:** Java
-- 🔗 [Acessar Repositório do Projeto](https://github.com)
+### 🎒 SOS Escola (Projeto 5P)
+*Sistema voltado para a gestão e suporte a ambientes escolares, centralizando fluxos de dados e otimizando a comunicação interna.*
+- **Abordagem Técnica:** Construção de interfaces responsivas, manipulação de estados e versionamento limpo para garantir a consistência das rotinas acadêmicas.
+- **Tecnologias principais:** HTML5, CSS3, JavaScript (ES6+) e controle de versão com Git.
+- 🔗 [Acessar Repositório do SOS Escola](https://github.com/EllySantiago/SOS_Escola_5P.-copy.git)
+
+### 🎨 Origem — Marketplace da Economia Criativa de Pernambuco
+*Plataforma web fullstack projetada para dar vitrine e canais de venda para artesãos locais, conectando-os a compradores nacionais de forma assíncrona e segura.*
+- **Abordagem Técnica:** Arquitetura estruturada com Next.js (App Router) simulando chamadas assíncronas através de Hooks e Services na primeira etapa. No backend, conta com infraestrutura em Node.js com Express e banco PostgreSQL, aplicando **computação concorrente no fluxo de checkout** e gerenciamento de filas de tarefas assíncronas para evitar concorrência destrutiva de estoque.
+- **Tecnologias principais:** Next.js, Node.js, Express, PostgreSQL, Docker e Fila Assíncrona.
+- 🔗 [Acessar Repositório do Marketplace](https://github.com/EllySantiago/Marketplace-da-economia-criativa.git)
+
+<br clear="right"> <!-- Garante que o alinhamento à direita termine aqui -->
+
+---
+
+## 🎓 Formação Acadêmica
+
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)**  
+  *Foco em Engenharia de Software, Estrutura de Dados, Banco de Dados Relacional e Arquiteturas Web.*
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <!-- Adicionado quebras de linha brutas para forçar a renderização das APIs pelo proxy do GitHub -->
   <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub"><br><br>
   <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas">
 </div>
