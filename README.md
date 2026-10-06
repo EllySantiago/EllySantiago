@@ -1,122 +1,72 @@
 # Bem vindos Senhoras e Senhores, Damas e Cavalheiros!
 
-<div align="center">
-  <img src="./assets/brasao.png" style="width: 100%; max-height: 200px; object-fit: cover;" alt="brasão - je crois en moi"/>
+ <div align="center">
+  <!-- Banner principal utilizando o asset do seu repositório -->
+  <img src="assets/banner.png" alt="Banner Elly Santiago" width="100%">
+
+  <h1>Olá, eu sou a Elly Santiago! :D</h1> 
+  <p><strong>Estudante de Análise e Desenvolvimento de Sistemas (ADS)</strong></p>
+  
+  <p>Transformando lógica em soluções eficientes e construindo aplicações modernas.</p>
+
+  <!-- Badges de Redes Sociais / Contato rápido -->
+  <a href="www.linkedin.com/in/driellysantos" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn">
+  </a>
+  <a href="mailto:Driellysantos578@gmail.com">
+    <img src="https://shields.io" alt="Email">
+  </a>
 </div>
 
-<br>
+## 📌 Sobre Mim
 
-#  Olá, eu sou Drielly Santiago S2
-
-Analista de Sistemas | Estudante de ADS com base em logística e gestão de processos
-
----
-
-## 📌 Projetos em destaque
-
-```
-driellysantos@dev
-```
-
-```
-sos-cidade-5p/             -> Projeto em equipe: plataforma para reportar e      [2026]
-                                          acompanhar problemas urbanos da cidade.
-
-marketplace-economia-criativa/ -> Projeto em equipe: marketplace para conectar    [2026]
-                                          empreendedores da economia criativa a
-                                          consumidores.
-
-facepe/                   -> Dois projetos (bolsista e voluntária) em            [2023-2024]
-                                          tecnologias logísticas, aplicando metodologias
-                                          ágeis, Kanban, 5W2H e Ishikawa.
-```
-
-🔗 [SOS Cidade 5P](https://github.com/kaykyDias04/SOS_Cidade_5P) &nbsp;•&nbsp; 🔗 [Marketplace da Economia Criativa](https://github.com/thainapontes/Marketplace-da-economia-criativa)
-
+- 🎓 Graduanda em **Análise e Desenvolvimento de Sistemas**.
+- 🚀 Atualmente focada no desenvolvimento de projetos práticos e na expansão do meu portfólio técnico.
+- 🛠️ Gosto de solucionar problemas reais através do código, estruturando softwares funcionais e bem documentados.
+- 🎯 Buscando oportunidades de estágio ou posições de nível júnior em desenvolvimento de software.
 
 ---
 
-## 🛠️ Tecnologias
+## 💻 Tecnologias e Ferramentas
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | <img src="https://shields.io"/> <img src="https://shields.io"/> |
+| **Front-End** | <img src="https://shields.io"/> <img src="https://shields.io"/> |
+| **Ferramentas & DevOps** | <img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/> |
+
+---
+
+## 🚀 Projetos em Destaque
+
+Aqui estão alguns dos projetos mais relevantes do meu portfólio de ADS:
+
+### 🌟 Nome do Seu Projeto Principal
+*Uma breve descrição de uma linha sobre o que este projeto faz e o problema que ele resolve.*
+- **Tecnologias utilizadas:** HTML, CSS, JavaScript
+- 🔗 [Acessar Repositório do Projeto](https://github.com)
+
+### 📦 Nome do Segundo Projeto
+*Uma breve descrição de uma linha sobre a funcionalidade desta aplicação.*
+- **Tecnologias utilizadas:** Java
+- 🔗 [Acessar Repositório do Projeto](https://github.com)
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="./assets/roses.jpg" width="220" align="right" alt="xadrez"/>
+  <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas" />
 </div>
 
-**Linguagens**
-
-<p>
-  <img src="https://img.shields.io/badge/-Java-8A2BE2?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-4B0082?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-6A0DAD?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-**Metodologias & Gestão**
-
-<p>
-  <img src="https://img.shields.io/badge/-Kanban-4B0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Scrum-4B0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-5W2H-4B0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Ishikawa-4B0082?style=for-the-badge" />
-</p>
-
-**Ferramentas**
-
-<p>
-  <img src="https://img.shields.io/badge/-Docker-9400D3?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Figma-9400D3?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-<br clear="right"/>
-
 ---
 
+## 🤝 Vamos nos conectar?
+
+Estou sempre aberta a discutir novos projetos, oportunidades de código ou apenas bater um papo sobre a área de tecnologia!
+
+- **LinkedIn:** [Conecte-se comigo no LinkedIn](https://linkedin.com)
+- **E-mail:** <layout>followupButton(query="""Draft an email to seu.email@provedor.com""", label="""seu.email@provedor.com""", variant=FOLLOWUP_BUTTON_VARIANT_EMAIL_DROPDOWN)</layout>
 
 
-```
-driellysantos@dev
-```
-
-```
------------
-Stack        : Java . TypeScript . Python . CSS
-Metodologias : Kanban . Scrum . 5W2H . Ishikawa
-Ferramentas  : Docker
-
-Hobby        : Insistir no impossivel ate provar que é possivel
-
-"No pain, no gain"
-```
-
----
-
-## ⚔️ Habilidades
-
-<div align="center">
-  <img src="./assets/sakura.jpg" width="220" align="right" alt="sakura"/>
-</div>
-<ul>
-<li>Gestão de fluxos e processos</li>
-<li>Inteligência emocional</li>
-<li>Trabalho em equipe</li>
-<li>Metodologia científica</li>
-<li>Proatividade</li>
-<li>Adaptabilidade</li>
-<li>Organização e planejamento</li>
-<li>Colaboração multidisciplinar</li>
-<li>Comunicação interpessoal</li>
-<li>Análise de dados</li>
-</ul>
-<br clear="right"/>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EllySantiago&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas de elly" />
-</p>
-
----
-
-<div align="center">
-  <sub>Cada dia é uma nova oportunidade de viver como se fosse a primeira vez
-  </sub>
-</div>
