@@ -28,10 +28,13 @@ Estou em busca de **estágio ou posição júnior** em desenvolvimento e anális
 
 **SOS Cidade 5P** · 2026 · projeto em equipe
 Plataforma para reportar e acompanhar problemas urbanos da cidade.
+- **Minha atuação:** revisão, implementação e correção de segurança (autenticação e senhas, chave JWT, criação de contas de gestor, anonimização de dados), além da análise de LGPD e da documentação de requisitos de segurança.
 🔗 [Repositório](https://github.com/kaykyDias04/SOS_Cidade_5P)
 
 **Origem — Marketplace da Economia Criativa** · 2026 · projeto em equipe
 Marketplace que conecta empreendedores da economia criativa de Pernambuco a consumidores.
+- **Minha atuação:** backlog priorizado (MoSCoW e histórias de usuário), diagrama de caso de uso e DER, requisitos de interface e início do frontend em Next.js.
+- Desenvolvido com apoio de ferramentas de IA, com revisão manual dos resultados.
 🔗 [Repositório](https://github.com/thainapontes/Marketplace-da-economia-criativa)
 
 **FACEPE** · 2023–2024 · bolsista e voluntária
