@@ -9,7 +9,7 @@
   
   <p>Transformando lógica em soluções eficientes e construindo aplicações modernas.</p>
 
-  <!-- Badges de Redes Sociais / Contato rápido -->
+  <!-- Badges corrigidas usando HTML simples para evitar bloqueio de proxy do GitHub -->
   <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn">
   </a>
@@ -31,13 +31,13 @@
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | <img src="https://shields.io"/> <img src="https://shields.io"/> |
-| **Front-End** | <img src="https://shields.io"/> <img src="https://shields.io"/> |
-| **Ferramentas & DevOps** | <img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/> |
+| **Linguagens** | <img src="https://shields.io" alt="JS"> <img src="https://shields.io" alt="Java"> |
+| **Front-End** | <img src="https://shields.io" alt="HTML5"> <img src="https://shields.io" alt="CSS3"> |
+| **Ferramentas & DevOps** | <img src="https://shields.io" alt="Git"> <img src="https://shields.io" alt="GitHub"> <img src="https://shields.io" alt="VSCode"> |
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos em Destaque <img src="assets/roses.jpg" alt="Rosas" width="45" align="center">
 
 Aqui estão alguns dos projetos mais relevantes do meu portfólio de ADS:
 
@@ -56,9 +56,9 @@ Aqui estão alguns dos projetos mais relevantes do meu portfólio de ADS:
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <!-- Geradores automáticos baseados no seu usuário real -->
-  <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas" />
+  <!-- Adicionado quebras de linha brutas para forçar a renderização das APIs pelo proxy do GitHub -->
+  <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub"><br><br>
+  <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas">
 </div>
 
 ---
@@ -68,4 +68,4 @@ Aqui estão alguns dos projetos mais relevantes do meu portfólio de ADS:
 Estou sempre aberta a discutir novos projetos, oportunidades de código ou apenas bater um papo sobre a área de tecnologia!
 
 - **LinkedIn:** [Conecte-se comigo no LinkedIn](https://linkedin.com)
-- **E-mail:** <layout>followupButton(query="""Draft an email to Driellysantos578@gmail.com""", label="""Driellysantos578@gmail.com""", variant=FOLLOWUP_BUTTON_VARIANT_EMAIL_DROPDOWN)</layout>
+- **E-mail:** [Driellysantos578@gmail.com](mailto:Driellysantos578@gmail.com)
