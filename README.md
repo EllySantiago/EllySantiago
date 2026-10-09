@@ -22,7 +22,7 @@ Estou em busca de **estágio ou posição júnior** em desenvolvimento e anális
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 <table>
 <tr>
