@@ -111,13 +111,21 @@ Hobby        : Insistir no impossível até provar que é possível
 
 ## 🎓 Formação e idiomas
 
+<table>
+<tr>
+<td valign="middle">
+
 - **Cesar School** · Tecnólogo em Análise e Desenvolvimento de Sistemas · 2025–2027
 - **ETEPAM** · Ensino médio técnico em Logística · 2020–2022
 - **Idiomas:** inglês intermediário (B1), francês e espanhol básicos
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllySantiago&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Linguagens mais usadas nos meus repositórios"/>
-</p>
+</td>
+<td width="380" valign="middle" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllySantiago&langs_count=6&theme=radical&hide_border=true&layout=pie" width="360" alt="Linguagens mais usadas (gráfico de pizza)"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllySantiago&langs_count=6&theme=radical&hide_border=true&layout=compact" width="360" alt="Linguagens mais usadas (barra)"/>
+</td>
+</tr>
+</table>
 
 ---
 
