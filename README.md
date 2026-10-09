@@ -120,9 +120,8 @@ Hobby        : Insistir no impossível até provar que é possível
 - **Idiomas:** inglês intermediário (B1), francês e espanhol básicos
 
 </td>
-<td width="380" valign="middle" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllySantiago&langs_count=6&theme=radical&hide_border=true&layout=pie" width="360" alt="Linguagens mais usadas (gráfico de pizza)"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllySantiago&langs_count=6&theme=radical&hide_border=true&layout=compact" width="360" alt="Linguagens mais usadas (barra)"/>
+<td width="300" valign="middle" align="center">
+  <img src="./assets/linguagens.svg" width="280" alt="Linguagens mais usadas nos meus repositórios"/>
 </td>
 </tr>
 </table>
