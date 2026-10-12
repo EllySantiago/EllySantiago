@@ -70,7 +70,11 @@ Front-end    : HTML5 . CSS
 Modelagem    : Diagramação . Figma
 Metodologias : Kanban . Scrum . 5W2H . Ishikawa
 Ferramentas  : Docker
+```
 
+<img src="https://api.visitorbadge.io/api/visitors?path=EllySantiago%2FEllySantiago&label=Visitas&labelColor=%23151b23&countColor=%23151b23&style=flat-square" alt="Visitas"/>
+
+```
 Hobby        : Insistir no impossível até provar que é possível
 
 "No pain, no gain"
