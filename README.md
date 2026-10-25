@@ -143,6 +143,3 @@ Hobby        : Insistir no impossível até provar que é possível
   <sub>Cada dia é uma nova oportunidade de viver como se fosse a primeira vez</sub>
 </div>
 
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=EllySantiago%2FEllySantiago&label=Visitas&labelColor=%23151b23&countColor=%23151b23&style=flat-square" height="16" alt="Visitas"/>
-</p>
