@@ -1,7 +1,7 @@
 # como dizem os mais sábios:
 
 <div align="center">
-  <img src="./assets/brasao.png" width="100%" alt="brasão - je crois en moi"/>
+  <img src="./assets/banner.png" width="100%" alt="brasão - je crois en moi"/>
 </div>
 
 <br>
